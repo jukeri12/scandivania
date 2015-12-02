@@ -1,0 +1,63 @@
+########################################################
+#						       #
+#   SCANDIVANIA: END-TIMES BATTLE ARENA ALPHA NEON EX  #
+#						       #
+########################################################
+
+
+----
+WHAT
+----
+
+Scandivania: ETBAANX is a 2-player accuracy/button tapping game, where 2 mecha-warriors of Northern lores
+come together in an epic battle for the dominion over the world after the End-Times. Will you be Vaenamoenen,
+the mythic warrior deity, or Htor, the great warlord who resides over thunder?
+
+
+-------
+INSTALL
+-------
+
+Requires Python 2.x and latest PyGame installed for work in linux.
+
+----
+HOW
+----
+
+Press corresponding buttons at right times once they hit timing part. This way you can hit on
+your opponent and maybe down him.
+
+First player alive when other player is dead win.
+
+Player 1 (Htor)
+A-S-D-Q-W-E
+
+Player 2 (Vaenamoenen)
+J-K-L-U-I-O
+
+
+
+---------
+WARRANTY
+---------
+
+Software provision as-is: no warranty is given for any case. ANY case. Ever.
+
+
+
+
+
+
+
+--------
+CREDITS
+--------
+
+jukeri - coding, design, art
+megalover - music, sound, design
+gritsen - art, music, sound
+
+
+Python code is licensed under GPLv3. Arts licensed under CC-BY 4.0
+
+Made in 2013
